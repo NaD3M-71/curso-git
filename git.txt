@@ -12,5 +12,6 @@ git
     config user.name "mi nombre" --> muestra el nombre que esta configurado en la pc
     config user.mail "mi email" --> muestra el email que esta configurado en la pc
     help --> muestra todos los comandos con sus explicaciones de que hace cada uno
+    git clone "url brindado por github" --> recupero todo los commit que tenia en github
 
 si se abre el editor VIM probar con q + enter o :q! + enter

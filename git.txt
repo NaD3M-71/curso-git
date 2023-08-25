@@ -6,3 +6,6 @@ git
     add . --> agrega los todos los archivos al branch
     add "archivo" --> agrega solo ese archivo al branch
     commit -m "etiqueta"  --> etiqueto mi repositorio de GIT 
+    log --oneline --> reviso los logs de mi repositorio
+
+si se abre el editor VIM probar con q + enter o :q! + enter

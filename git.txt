@@ -1,0 +1,8 @@
+comandos git
+
+git 
+    init --> inicia un repositorio git en la ruta indicada
+    status --> muestra las carpetas y archivos de la ruta
+    add . --> agrega los todos los archivos al branch
+    add "archivo" --> agrega solo ese archivo al branch
+    commit -m "etiqueta"  --> etiqueto mi repositorio de GIT 

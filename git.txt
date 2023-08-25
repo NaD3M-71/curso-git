@@ -7,5 +7,10 @@ git
     add "archivo" --> agrega solo ese archivo al branch
     commit -m "etiqueta"  --> etiqueto mi repositorio de GIT 
     log --oneline --> reviso los logs de mi repositorio
+    config --global user.name "mi nombre" --> configura mi nombre de manera global en mi pc
+    config --global user.mail "mi email" --> configura mi email de manera global en mi pc
+    config user.name "mi nombre" --> muestra el nombre que esta configurado en la pc
+    config user.mail "mi email" --> muestra el email que esta configurado en la pc
+    help --> muestra todos los comandos con sus explicaciones de que hace cada uno
 
 si se abre el editor VIM probar con q + enter o :q! + enter
